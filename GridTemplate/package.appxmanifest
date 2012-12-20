@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Package xmlns="http://schemas.microsoft.com/appx/2010/manifest">
-  <Identity Name="63202AsheA.AwesomeWallpapers" Version="1.0.0.1" Publisher="CN=BEB062ED-1927-4FA5-820E-906239811601" />
+  <Identity Name="63202AsheA.AwesomeWallpapers" Version="1.0.0.2" Publisher="CN=BEB062ED-1927-4FA5-820E-906239811601" />
   <Properties>
     <DisplayName>Awesome Wallpapers</DisplayName>
     <PublisherDisplayName>AsheA</PublisherDisplayName>

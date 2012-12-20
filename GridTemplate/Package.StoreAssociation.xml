@@ -343,7 +343,8 @@
     </ReservedNames>
   </ProductReservedInfo>
   <AccountPackageIdentityNames>
+    <MainPackageIdentityName>63202AsheA.EatOut-Southport</MainPackageIdentityName>
     <MainPackageIdentityName>63202AsheA.SouthportMarket</MainPackageIdentityName>
   </AccountPackageIdentityNames>
-  <PackageInfoList LandingUrl="https://appdev.microsoft.com:443/StorePortals/Developer/Catalog/ReleaseAnchor/182b4d3f-ff6f-4e5e-acb8-3e2f5172c97c" />
+  <PackageInfoList LandingUrl="https://appdev.microsoft.com:443/StorePortals/Developer/Catalog/ReleaseAnchor/067c0c2c-a942-4dd3-aa9a-31f504540f6c" />
 </StoreAssociation>
